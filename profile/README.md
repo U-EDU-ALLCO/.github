@@ -3,6 +3,34 @@
 
 ---
 
+## 📜 Preamble  
+The **U-EDU International Charter** is founded on the belief that **learning is a lifelong, self-directed journey** where curiosity is the ultimate compass. Inspired by the vision of **liberal, responsible, and accessible education for all**, this framework unites global NGOs, academic innovators, communities, and governments to establish a sustainable, ethical, and future-ready unschool education ecosystem.  
+
+---
+
+## 🏛 Foundation History & Origin  
+The U-EDU concept emerged in the early 2020s as educators, technologists, and community leaders sought **alternatives to rigid, industrial-era schooling**. Drawing from the principles of unschooling, open education, and democratic governance, the first pilot centres were established in **India, Kenya, and Finland**, demonstrating the power of curiosity-driven learning without standardized constraints.  
+
+---
+
+## 📖 Background  
+By 2024, global demand for flexible, personalized learning had grown exponentially. However, a lack of **shared quality standards** limited scalability and credibility. The **U-EDU International Standards Council (U-ISC)** was created to provide **clear guidelines, ethical safeguards, and governance models** that preserve learner freedom while ensuring accountability. This README serves as both a **public declaration** and a **living document** for the movement.  
+
+---
+
+## 📊 Stakeholders & Governing Bodies  
+
+| Stakeholder Group            | Role & Responsibilities                                                                                       |
+|------------------------------|---------------------------------------------------------------------------------------------------------------|
+| **U-EDU International Standards Council (U-ISC)** | Oversees global compliance, updates standards, conducts audits, and facilitates cross-border collaboration. |
+| **Regional U-EDU Hubs**      | Adapt global standards to local contexts, manage regional mentorship networks, and coordinate events.         |
+| **Mentors & Facilitators**   | Guide learners without coercion, maintain ethical practice, and engage in continuous self-learning.            |
+| **Learners**                 | Co-create learning paths, participate in governance, and contribute to community projects.                    |
+| **Partner NGOs & Institutions** | Provide resources, funding, research support, and networking opportunities.                                  |
+| **Government & Policy Bodies**  | Recognize U-EDU standards in national frameworks, support policy adoption, and provide legal guidance.      |
+
+---
+
 ## ✨ 1. Philosophy & Guiding Principles  
 U-EDU champions the power of curiosity-led learning 🌱, giving learners the freedom to explore ideas without rigid boundaries. It fosters creativity 🎨, critical thinking 🤔, and global citizenship 🌍 while grounding students in empathy 💖 and social responsibility.  
 
@@ -39,8 +67,6 @@ Regular self-audits 🔍 with learner participation keep quality alive, while pe
 ---
 
 # 🎯 Five-Year Action Plan & Targets  
-
----
 
 ### 🌱 Year 1 – Foundation & Recognition  
 - Form the **International U-EDU Standards Council** 🌍.  
